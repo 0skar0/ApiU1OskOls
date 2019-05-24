@@ -1,6 +1,4 @@
 # ApiU1OskOls
 
-```
-var a = 1;
-
-```
+**Hur används HTTP-protokollet när du surfar in på en websida?**
+Det används balbalbalabla
